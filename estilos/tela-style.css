@@ -15,11 +15,12 @@ img{
 a{ 
     display: block; 
     background-color: darkred; 
-    text-align: center; 
     padding: 20px; 
     font-weight: bolder; 
     text-decoration: none; 
     color: white; 
-    width: 98vw;
-
+    text-align: center;
+} 
+a:hover{ 
+    background-color: red;
 }
